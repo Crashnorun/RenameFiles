@@ -1,6 +1,7 @@
 # Rename Files
 This project takes a series of files and renames them according to a specific format required for end of semester submission.
 
+![UI Image](https://github.com/Crashnorun/RenameFiles/blob/master/Rename_Files_01/Images/UI_01.jpg)
 ## Required inputs
 * The user selects a folder directory. Ex. **C:\My Documents\2018_Fall\Student Submissions**
 * Course number Ex. **ARCH1234**
