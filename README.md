@@ -17,8 +17,8 @@ file (ex: .jpg, or .pdf)
 * Create zip file is intended to create a zip file from the newly created files. (All files combined into one zip file).
 
 ## TextBlocks
-* Current File Name: displays the full file path with directory, of the current file being operated on
-* New File Name: displays the proposed file name
+* **Current File Name**: displays the full file path with directory, of the current file being operated on
+* **New File Name**: displays the proposed file name
 
 Ex: **ARCH1235_CP_FL18_Assignment 02 - Site Plan_LastName_FirstName.jpg**
 
